@@ -1,3 +1,3 @@
-first.
-git is a version control system.
+second.
+git is a distributed version control system.
 git is free software.
